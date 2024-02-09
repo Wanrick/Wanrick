@@ -44,7 +44,7 @@
 ![](https://img.shields.io/badge/Code-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 
-![](https://img.shields.io/badge/Style-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Style-Tailwind-06B6D4?style=for-the-badge&logo=TailwindCss&logoColor=white)
 ![](https://img.shields.io/badge/Style-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 
 ![](https://img.shields.io/badge/Tests-SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white)
@@ -67,8 +67,8 @@
   ![](https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
   ![](https://img.shields.io/badge/Code-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
   ![](https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-
-  ![](https://img.shields.io/badge/Style-Tailwind-06B6D4?style=for-the-badge&logo=TailwindCss&logoColor=white)
+  
+  ![](https://img.shields.io/badge/Style-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
   ![](https://img.shields.io/badge/IDE-VisualStudio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white)
   ![](https://img.shields.io/badge/IDE-Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
